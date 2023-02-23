@@ -3,7 +3,7 @@
 </div>
 - 🔭 Atualmente cursando Análise e desenvolvimento de sistemas<br>
 - 🌱 Focando meu aprendizado no desenvolvimento web, tanto back-end quanto frot-end<br>
-- 😄 Pronouns: ele/dele<br><br>
+- 😄 hobby: games/RPG MMO<br><br>
 - 📫 Email para contato: giovanibguidetti@gmail.com<br>
    
    
